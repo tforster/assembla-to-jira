@@ -1,0 +1,30 @@
+{
+  "name": "assembla-to-jira",
+  "version": "1.0.0",
+  "description": "Convert exported Assembla tickets to CSV that JIRA can import",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Troy Forster",
+  "license": "ISC",
+  "devDependencies": {
+    "encoding": "^0.1.12"
+  },
+  "dependencies": {
+    "encoding": "^0.1.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tforster/assembla-to-jira.git"
+  },
+  "keywords": [
+    "assembla",
+    "jira",
+    "import"
+  ],
+  "bugs": {
+    "url": "https://github.com/tforster/assembla-to-jira/issues"
+  },
+  "homepage": "https://github.com/tforster/assembla-to-jira#readme"
+}
